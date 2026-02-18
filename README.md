@@ -1,2 +1,4 @@
 # frano-legends
-mod de terraria de frano
+Mod de terraria de frano:
+- Frano
+
